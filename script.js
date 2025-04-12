@@ -129,7 +129,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 13,
-      name: "Safari Race Series Overall GC(Amani x LOOP)",
+      name: "Safari Race Series(Amani x LOOP)",
       date: "2025-03-08T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
