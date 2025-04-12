@@ -105,7 +105,221 @@ document.addEventListener("DOMContentLoaded", function () {
       distance: "500 km",
       location: "The Mara Calling",
       altittude: "1700 meters"
+    },
+    //KCRS
+    {
+      id: 7,
+      name: "Mawenzi MTB Race",
+      date: "2025-1-19T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Mawenzi Resort Mombasa",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Kangundo Kaper XC",
+      date: "2025-1-26T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Kangundo, Mua Hills Sports Club",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Safari Race Series Overall GC(Amani x LOOP)",
+      date: "2025-3-08T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Machakos",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Kibuku XC",
+      date: "2025-9-02T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Kibuku Forest",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "The Wild XC IV",
+      date: "2025-4-06T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "50km, 20km, 10km,",
+      location: "Lukenya",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Sagana Enduro- intermidiate category",
+      date: "2025-1-19T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Sagana",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Sokoke MTB Race",
+      date: "2025-5-18T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "70 km",
+      location: "Watamu",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Sule Kangangi Memorial Gravel",
+      date: "2025-6-08T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "120 km",
+      location: "Kajiado",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Machakos MTB Stage Race",
+      date: "2025-1-19T00:00:00Z",
+      days: 2,
+      link: "https://planner.example.com/event/1",
+      distance: "60 km",
+      location: "Machakos",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "The KARI Challange",
+      date: "2025-7-27T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Karlo Mugunga",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Hells Gate Challange",
+      date: "2025-8-31T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Hells Gate",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Forest XC (Kenya MTB classic)",
+      date: "2025-9-20T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "80 km",
+      location: "Kereita Falls",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Naro Moro Cycling Festival MTB Race",
+      date: "2025-9-26T00:00:00Z",
+      days: 2,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Naro Moru",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Ololua Forest XC",
+      date: "2025-10-12T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Ololua Forest",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Solar XCO Enduro",
+      date: "2025-1-19T00:00:00Z",
+      days: 2,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Eburru Forest",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Njoroge Memorial Ride",
+      date: "2025-4-27T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Engineer",
+      altittude: "1700 meters"
+    },
+    //list b
+    {
+      id: 7,
+      name: "Malindi Road Race",
+      date: "2025-1-19T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Malindi",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Southern Bypass ITT",
+      date: "2025-3-01T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Thogoto",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Pedalmania Ladies Race",
+      date: "2025-3-08T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Kimuka, Ngong",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Great Rift Valley Challange",
+      date: "2025-3-30T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Iten",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Gachika Road Race",
+      date: "2025-5-11T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "100 km",
+      location: "Kiambu",
+      altittude: "1700 meters"
     }
+
+
 
   ];
 
