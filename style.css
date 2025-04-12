@@ -48,7 +48,7 @@ h2 {
   padding: 1px 3px;
   border: 1px solid #999;
   border-radius: 4px;
-  transition: all .7s ease;
+  transition: all .9s ease;
     
 
 }
@@ -65,15 +65,16 @@ h2 {
 .child {
     border-radius: 25px;
     text-shadow: 2px 2px 4px black;
-    font-style: bold;
+    font-weight: bold;
     background-color: #000000;
     padding: 15px;
     height: 81%;
     transition: all 0.6s ease;
-    font-size: large;
+    font-size: larger;
     border-radius: 3px;
     color: #ffffff;
-    font-family: cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: solid;
 }
 
 
@@ -157,4 +158,11 @@ td.empty {
     background: rgb(146, 56, 56);
     color: #f4f4f4;
     cursor: pointer;
+  }
+
+  footer{
+    background-color: #000000;
+    color: #f4f4f4;
+    text-align: center;
+    padding: 2rem;
   }

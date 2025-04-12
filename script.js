@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
       days: 5,
       link: "https://planner.example.com/event/2",
       distance: "415km",
-      location: "Naivasha",
+      location: "Kisumu",
       altittude: "1700 meters"
     },
     {
@@ -264,7 +264,7 @@ document.addEventListener("DOMContentLoaded", function () {
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
-      location: "Engineer",
+      location: "Engineer town North Kinangop",
       altittude: "1700 meters"
     },
     //list b
