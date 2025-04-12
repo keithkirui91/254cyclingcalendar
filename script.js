@@ -414,7 +414,7 @@ document.addEventListener("DOMContentLoaded", function () {
       popover.style.position = "absolute";
       popover.style.backgroundColor = "#fff";
       popover.style.border = "1px solid #ccc";
-      popover.style.padding = "10px";
+      popover.style.padding = "5px";
       popover.style.boxShadow = "0 2px 8px rgba(0,0,0,0.2)";
       popover.style.zIndex = "10000";
       document.body.appendChild(popover);
