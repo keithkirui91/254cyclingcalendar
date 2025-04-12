@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       id: 7,
       name: "Maasai Mara Grand Migration",
-      date: "2025-6-17T00:00:00Z",
+      date: "2025-06-17T00:00:00Z",
       days:  "4 days,4 stages",
       link: "https://planner.example.com/event/1",
       distance: "600 km",
@@ -77,9 +77,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 8,
       name: "Taita Enduro",
-      date: "2025-6-29T00:00:00Z",
+      date: "2025-06-29T00:00:00Z",
       days: 7,
       link: "https://planner.example.com/event/1",
       distance: "200 km",
@@ -87,9 +87,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 9,
       name: "Cycle Kenya",
-      date: "2025-9-07T00:00:00Z",
+      date: "2025-09-07T00:00:00Z",
       days: 5,
       link: "https://planner.example.com/event/1",
       distance: "415 km",
@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 10,
       name: "Vipingo Tri-athlon",
       date: "2025-12-21T00:00:00Z",
       days: 7,
@@ -108,9 +108,9 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     //KCRS
     {
-      id: 7,
+      id: 11,
       name: "Mawenzi MTB Race",
-      date: "2025-1-19T00:00:00Z",
+      date: "2025-01-19T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -118,9 +118,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 12,
       name: "Kangundo Kaper XC",
-      date: "2025-1-26T00:00:00Z",
+      date: "2025-01-26T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -128,9 +128,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 13,
       name: "Safari Race Series Overall GC(Amani x LOOP)",
-      date: "2025-3-08T00:00:00Z",
+      date: "2025-03-08T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -138,9 +138,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 14,
       name: "Kibuku XC",
-      date: "2025-9-02T00:00:00Z",
+      date: "2025-09-02T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -148,9 +148,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 15,
       name: "The Wild XC IV",
-      date: "2025-4-06T00:00:00Z",
+      date: "2025-04-06T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "50km, 20km, 10km,",
@@ -158,19 +158,19 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 16,
       name: "Sagana Enduro- intermidiate category",
-      date: "2025-1-19T00:00:00Z",
-      days: 1,
+      date: "2025-05-03T00:00:00Z",
+      days: 2,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
       location: "Sagana",
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 17,
       name: "Sokoke MTB Race",
-      date: "2025-5-18T00:00:00Z",
+      date: "2025-05-18T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "70 km",
@@ -178,9 +178,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 18,
       name: "Sule Kangangi Memorial Gravel",
-      date: "2025-6-08T00:00:00Z",
+      date: "2025-06-08T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "120 km",
@@ -188,9 +188,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 19,
       name: "Machakos MTB Stage Race",
-      date: "2025-1-19T00:00:00Z",
+      date: "2025-01-19T00:00:00Z",
       days: 2,
       link: "https://planner.example.com/event/1",
       distance: "60 km",
@@ -198,9 +198,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 20,
       name: "The KARI Challange",
-      date: "2025-7-27T00:00:00Z",
+      date: "2025-07-27T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -208,9 +208,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 21,
       name: "Hells Gate Challange",
-      date: "2025-8-31T00:00:00Z",
+      date: "2025-08-31T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -218,9 +218,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 22,
       name: "Forest XC (Kenya MTB classic)",
-      date: "2025-9-20T00:00:00Z",
+      date: "2025-09-20T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "80 km",
@@ -228,9 +228,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 23,
       name: "Naro Moro Cycling Festival MTB Race",
-      date: "2025-9-26T00:00:00Z",
+      date: "2025-09-26T00:00:00Z",
       days: 2,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -238,7 +238,7 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 24,
       name: "Ololua Forest XC",
       date: "2025-10-12T00:00:00Z",
       days: 1,
@@ -248,9 +248,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 25,
       name: "Solar XCO Enduro",
-      date: "2025-1-19T00:00:00Z",
+      date: "2025-12-19T00:00:00Z",
       days: 2,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -258,9 +258,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 26,
       name: "Njoroge Memorial Ride",
-      date: "2025-4-27T00:00:00Z",
+      date: "2025-04-27T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -269,9 +269,9 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     //list b
     {
-      id: 7,
+      id: 27,
       name: "Malindi Road Race",
-      date: "2025-1-19T00:00:00Z",
+      date: "2025-01-19T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -279,9 +279,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 28,
       name: "Southern Bypass ITT",
-      date: "2025-3-01T00:00:00Z",
+      date: "2025-03-01T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -289,9 +289,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 29,
       name: "Pedalmania Ladies Race",
-      date: "2025-3-08T00:00:00Z",
+      date: "2025-03-08T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -299,9 +299,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 30,
       name: "Great Rift Valley Challange",
-      date: "2025-3-30T00:00:00Z",
+      date: "2025-03-30T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -309,9 +309,9 @@ document.addEventListener("DOMContentLoaded", function () {
       altittude: "1700 meters"
     },
     {
-      id: 7,
+      id: 31,
       name: "Gachika Road Race",
-      date: "2025-5-11T00:00:00Z",
+      date: "2025-02-11T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "100 km",
@@ -344,7 +344,7 @@ document.addEventListener("DOMContentLoaded", function () {
           .filter(ev => new Date(ev.date).getMonth() === monthIndex)
           .forEach(ev => {
             const li = document.createElement("li");
-            li.textContent = `  ${ev.name} on ${new Date(ev.date).toLocaleDateString()}`;
+            li.textContent = ` ${ev.name}, ${new Date(ev.date).toLocaleDateString()}`;
             
             li.addEventListener("click", () => togglePopover(li, ev));
           

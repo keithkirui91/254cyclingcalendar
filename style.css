@@ -20,7 +20,7 @@ body {
 
 /* Monthly section styling */
 .month {
-    height: 500px;
+    height: 510px;
     width: 98%;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -63,11 +63,12 @@ h2 {
 
 /* Styling for event section */
 .child {
+    border-radius: 25px;
     text-shadow: 2px 2px 4px black;
     font-style: bold;
     background-color: #000000;
     padding: 15px;
-    height: 80%;
+    height: 81%;
     transition: all 0.6s ease;
     font-size: large;
     border-radius: 3px;
