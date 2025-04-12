@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       id: 4,
       name: "Cycle Kenya",
-      date: "2025-02-15T00:00:00Z",
+      date: "2025-04-15T00:00:00Z",
       days: 5,
       link: "https://planner.example.com/event/2",
       distance: "415km",
@@ -58,9 +58,9 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 6,
-      name: "Cycle Kenya",
-      date: "2025-05-07T00:00:00Z",
-      days: 5,
+      name: "Safari Epic",
+      date: "2025-05-29T00:00:00Z",
+      days: 3,
       link: "https://planner.example.com/event/2",
       distance: "415km",
       location: "Nanyuki",
@@ -68,14 +68,45 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 7,
-      name: "Ride Africa",
-      date: "2025-11-15T00:00:00Z",
+      name: "Maasai Mara Grand Migration",
+      date: "2025-6-17T00:00:00Z",
+      days:  "4 days,4 stages",
+      link: "https://planner.example.com/event/1",
+      distance: "600 km",
+      location: "The Mara Calling",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Taita Enduro",
+      date: "2025-6-29T00:00:00Z",
+      days: 7,
+      link: "https://planner.example.com/event/1",
+      distance: "200 km",
+      location: "Taita Hills",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Cycle Kenya",
+      date: "2025-9-07T00:00:00Z",
+      days: 5,
+      link: "https://planner.example.com/event/1",
+      distance: "415 km",
+      location: "Nanyuki",
+      altittude: "1700 meters"
+    },
+    {
+      id: 7,
+      name: "Vipingo Tri-athlon",
+      date: "2025-12-21T00:00:00Z",
       days: 7,
       link: "https://planner.example.com/event/1",
       distance: "500 km",
       location: "The Mara Calling",
       altittude: "1700 meters"
     }
+
   ];
 
   initializeCalendars(simulatedEvents);
