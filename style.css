@@ -105,7 +105,6 @@ table {
     width: 100%;
     border-collapse: separate;
     border-spacing: 5px;
-    
     color: aliceblue;
     text-align: center;
  
@@ -145,9 +144,9 @@ td.empty {
   
   /* Popover style */
   #event-popover {
-    font-family: cursive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    height: 150px;
+    height: 200px;
     position: absolute;
     background-color: rgb(163, 163, 163);
     color: black;
@@ -160,6 +159,7 @@ td.empty {
     font-size: 14px;
     display: none;
     transition: opacity 0.3s ease;
+    
    
   }
   #event-popover button {
@@ -202,7 +202,27 @@ td.empty {
     }
     .month {
         height: auto;
+    }
+   /* Table styling */
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 1px;
+ 
+}
 
-     
+th{
+    opacity: .8;
+    padding: 1px;
+    height: 4px;
+}
+ td {
+    opacity: .8;
+    padding: 1px;
+
+}
+
+    #event-popover{
+        width: 70%;
     }
   }

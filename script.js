@@ -424,13 +424,13 @@ document.addEventListener("DOMContentLoaded", function () {
     activePopover = targetElement;
 
     popover.innerHTML = `
-      Event: ${eventData.name || "N/A"}<br>
-      Location: ${eventData.location || "N/A"}<br>
-      Distance: ${eventData.distance || "N/A"}<br>
-      Days: ${eventData.days || "N/A"}<br>
+      Event: ${eventData.name || "N/A"}<br><br>
+      Location: ${eventData.location || "N/A"}<br><br>
+      Distance: ${eventData.distance || "N/A"}<br><br>
+      Days: ${eventData.days || "N/A"}<br><br>
       
-      Altitude: ${eventData.altittude || "N/A"}<br>
-      <a href="${eventData.link}" target="_blank">register /Planner Website</a><br>
+      Altitude: ${eventData.altittude || "N/A"}<br><br>
+      Link:<a href="${eventData.link}" target="_blank">register /Planner Website</a><br>
       <button id="close-popover-btn">Close</button>
     `;
 
