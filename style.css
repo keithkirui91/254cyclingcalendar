@@ -172,7 +172,7 @@ td.empty {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    height: auto;
+    height: 800px;
   }
 
   .child {
