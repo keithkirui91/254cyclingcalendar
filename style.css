@@ -185,7 +185,7 @@ td.empty {
   footer{
     background-color: #000000;
     color: #f4f4f4;
-    height: 80px;
+    height: auto;
     text-align: center;
     padding: 2rem;
   }
