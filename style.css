@@ -166,3 +166,16 @@ td.empty {
     text-align: center;
     padding: 2rem;
   }
+
+@media (max-width: 768px) {
+  .parent {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    height: auto;
+  }
+
+  .child {
+    height: auto;
+  }
+}
