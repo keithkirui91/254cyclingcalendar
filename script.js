@@ -109,7 +109,7 @@ document.addEventListener("DOMContentLoaded", function () {
     //KCRS
     {
       id: 11,
-      name: "Mawenzi MTB Race",
+      name: "Mawenzi MTB Race(kcrs)",
       date: "2025-01-19T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 12,
-      name: "Kangundo Kaper XC",
+      name: "Kangundo Kaper XC(kcrs)",
       date: "2025-01-26T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -129,7 +129,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 13,
-      name: "Safari Race Series(Amani x LOOP)",
+      name: "Safari Race Series Overall GC(Amani x LOOP)(kcrs)",
       date: "2025-03-08T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -139,7 +139,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 14,
-      name: "Kibuku XC",
+      name: "Kibuku XC(kcrs)",
       date: "2025-09-02T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -149,7 +149,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 15,
-      name: "The Wild XC IV",
+      name: "The Wild XC IV(kcrs)",
       date: "2025-04-06T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -159,7 +159,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 16,
-      name: "Sagana Enduro- intermidiate category",
+      name: "Sagana Enduro(kcrs)",
       date: "2025-05-03T00:00:00Z",
       days: 2,
       link: "https://planner.example.com/event/1",
@@ -169,7 +169,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 17,
-      name: "Sokoke MTB Race",
+      name: "Sokoke MTB Race(kcrs)",
       date: "2025-05-18T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -179,7 +179,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 18,
-      name: "Sule Kangangi Memorial Gravel",
+      name: "Sule Kangangi Memorial Gravel(kcrs)",
       date: "2025-06-08T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -189,7 +189,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 19,
-      name: "Machakos MTB Stage Race",
+      name: "Machakos MTB Stage Race(kcrs)",
       date: "2025-01-19T00:00:00Z",
       days: 2,
       link: "https://planner.example.com/event/1",
@@ -199,7 +199,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 20,
-      name: "The KARI Challange",
+      name: "The KARI Challange(kcrs)",
       date: "2025-07-27T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -209,7 +209,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 21,
-      name: "Hells Gate Challange",
+      name: "Hells Gate Challange(kcrs)",
       date: "2025-08-31T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -219,7 +219,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 22,
-      name: "Forest XC (Kenya MTB classic)",
+      name: "Forest XC (Kenya MTB classic)(kcrs)",
       date: "2025-09-20T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -229,7 +229,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 23,
-      name: "Naro Moro Cycling Festival MTB Race",
+      name: "Naro Moro Cycling Festival MTB Race(kcrs)",
       date: "2025-09-26T00:00:00Z",
       days: 2,
       link: "https://planner.example.com/event/1",
@@ -239,7 +239,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 24,
-      name: "Ololua Forest XC",
+      name: "Ololua Forest XC(kcrs)",
       date: "2025-10-12T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -249,7 +249,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 25,
-      name: "Solar XCO Enduro",
+      name: "Solar XCO Enduro(kcrs)",
       date: "2025-12-19T00:00:00Z",
       days: 2,
       link: "https://planner.example.com/event/1",
@@ -259,7 +259,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 26,
-      name: "Njoroge Memorial Ride",
+      name: "Njoroge Memorial Ride(kcrs)",
       date: "2025-04-27T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -270,7 +270,7 @@ document.addEventListener("DOMContentLoaded", function () {
     //list b
     {
       id: 27,
-      name: "Malindi Road Race",
+      name: "Malindi Road Race(kcrs)",
       date: "2025-01-19T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -280,7 +280,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 28,
-      name: "Southern Bypass ITT",
+      name: "Southern Bypass ITT(kcrs)",
       date: "2025-03-01T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -290,7 +290,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 29,
-      name: "Pedalmania Ladies Race",
+      name: "Pedalmania Ladies Race(kcrs)",
       date: "2025-03-08T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -300,7 +300,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 30,
-      name: "Great Rift Valley Challange",
+      name: "Great Rift Valley Challange(kcrs)",
       date: "2025-03-30T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -310,7 +310,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 31,
-      name: "Gachika Road Race",
+      name: "Gachika Road Race(kcrs)",
       date: "2025-02-11T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
@@ -376,7 +376,8 @@ document.addEventListener("DOMContentLoaded", function () {
       const cell = document.createElement("td");
       cell.textContent = day;
 
-      const cellDate = new Date(year, month, day).toISOString().slice(0, 10);
+      const cellDate = new Date(year, month, day).toLocaleDateString('en-CA');
+
       const dayEvents = events.filter(ev => ev.date.slice(0, 10) === cellDate);
 
       if (dayEvents.length > 0) {
@@ -414,7 +415,7 @@ document.addEventListener("DOMContentLoaded", function () {
       popover.style.position = "absolute";
       popover.style.backgroundColor = "#fff";
       popover.style.border = "1px solid #ccc";
-      popover.style.padding = "5px";
+      popover.style.padding = "10px";
       popover.style.boxShadow = "0 2px 8px rgba(0,0,0,0.2)";
       popover.style.zIndex = "10000";
       document.body.appendChild(popover);
@@ -429,7 +430,7 @@ document.addEventListener("DOMContentLoaded", function () {
       Days: ${eventData.days || "N/A"}<br>
       
       Altitude: ${eventData.altittude || "N/A"}<br>
-      <a href="${eventData.link}" target="_blank">Planner Website</a><br>
+      <a href="${eventData.link}" target="_blank">register /Planner Website</a><br>
       <button id="close-popover-btn">Close</button>
     `;
 
