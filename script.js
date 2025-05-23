@@ -321,7 +321,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       id: 32,
       name: "The Half Way Cycle",
-      date: "2025-06-11T00:00:00Z",
+      date: "2025-07-02T00:00:00Z",
       days: 1,
       link: "https://planner.example.com/event/1",
       distance: "42 km",
