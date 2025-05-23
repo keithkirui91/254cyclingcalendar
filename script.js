@@ -317,7 +317,7 @@ nodocument.addEventListener("DOMContentLoaded", function () {
       distance: "100 km",
       location: "Kiambu",
       altittude: "1700 meters"
-    },
+   }
 
 
   ];
