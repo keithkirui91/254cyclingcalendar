@@ -317,7 +317,15 @@ document.addEventListener("DOMContentLoaded", function () {
       distance: "100 km",
       location: "Kiambu",
       altittude: "1700 meters"
-    }
+    },
+{      id: 32,
+      name: "The Half Way Cycle",
+      date: "2025-06-02T00:00:00Z",
+      days: 1,
+      link: "https://planner.example.com/event/1",
+      distance: "42 km",
+      location: "Nakuru to Mogotio equator",
+      altittude: "1700 meters"}
 
 
 
